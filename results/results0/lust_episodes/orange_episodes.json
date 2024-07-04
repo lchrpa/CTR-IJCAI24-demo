@@ -1,0 +1,5083 @@
+{
+  "total": {
+    "problems": {
+      "time": 19.265,
+      "routes": 39840,
+      "junctions": 18973,
+      "generated": 240
+    },
+    "vehicles": {
+      "total": 6576,
+      "scheduled": 5047,
+      "routed": 5047,
+      "short_route": 148,
+      "invalid_route": 282
+    },
+    "results": {
+      "cost": 0,
+      "plans": 240,
+      "timeout": 5980.735,
+      "unique": 240
+    }
+  },
+  "average": {
+    "problems": {
+      "time": 0.08,
+      "routes": 166.0,
+      "junctions": 79.054
+    },
+    "vehicles": {
+      "total": 27.4,
+      "scheduled": 21.029,
+      "routed": 21.029,
+      "short_route": 0.617,
+      "invalid_route": 1.175
+    },
+    "results": {
+      "cost": 0.0,
+      "plans": 1.0,
+      "timeout": 24.92,
+      "unique": 1.0
+    }
+  },
+  "episode0": {
+    "problems": {
+      "name": "problem_25202_25232",
+      "time": 0.106,
+      "routes": 137,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 13,
+      "scheduled": 8,
+      "routed": 8,
+      "short_route": 2,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_25202_25232",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.894
+    }
+  },
+  "episode1": {
+    "problems": {
+      "name": "problem_25232_25262",
+      "time": 0.145,
+      "routes": 173,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_25232_25262",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.855
+    }
+  },
+  "episode2": {
+    "problems": {
+      "name": "problem_25262_25292",
+      "time": 0.06,
+      "routes": 141,
+      "junctions": 75
+    },
+    "vehicles": {
+      "total": 17,
+      "scheduled": 11,
+      "routed": 11,
+      "short_route": 2,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_25262_25292",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.94
+    }
+  },
+  "episode3": {
+    "problems": {
+      "name": "problem_25292_25322",
+      "time": 0.073,
+      "routes": 176,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 0,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_25292_25322",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.927
+    }
+  },
+  "episode4": {
+    "problems": {
+      "name": "problem_25322_25352",
+      "time": 0.104,
+      "routes": 151,
+      "junctions": 75
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_25322_25352",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.896
+    }
+  },
+  "episode5": {
+    "problems": {
+      "name": "problem_25352_25382",
+      "time": 0.065,
+      "routes": 149,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25352_25382",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.935
+    }
+  },
+  "episode6": {
+    "problems": {
+      "name": "problem_25382_25412",
+      "time": 0.064,
+      "routes": 155,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_25382_25412",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.936
+    }
+  },
+  "episode7": {
+    "problems": {
+      "name": "problem_25412_25442",
+      "time": 0.149,
+      "routes": 111,
+      "junctions": 71
+    },
+    "vehicles": {
+      "total": 20,
+      "scheduled": 14,
+      "routed": 14,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_25412_25442",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.851
+    }
+  },
+  "episode8": {
+    "problems": {
+      "name": "problem_25442_25472",
+      "time": 0.067,
+      "routes": 152,
+      "junctions": 75
+    },
+    "vehicles": {
+      "total": 20,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_25442_25472",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.933
+    }
+  },
+  "episode9": {
+    "problems": {
+      "name": "problem_25472_25502",
+      "time": 0.058,
+      "routes": 171,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_25472_25502",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode10": {
+    "problems": {
+      "name": "problem_25502_25532",
+      "time": 0.053,
+      "routes": 113,
+      "junctions": 64
+    },
+    "vehicles": {
+      "total": 15,
+      "scheduled": 11,
+      "routed": 11,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_25502_25532",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode11": {
+    "problems": {
+      "name": "problem_25532_25562",
+      "time": 0.06,
+      "routes": 149,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25532_25562",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.94
+    }
+  },
+  "episode12": {
+    "problems": {
+      "name": "problem_25562_25592",
+      "time": 0.071,
+      "routes": 184,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 20,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25562_25592",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.929
+    }
+  },
+  "episode13": {
+    "problems": {
+      "name": "problem_25592_25622",
+      "time": 0.066,
+      "routes": 189,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25592_25622",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.934
+    }
+  },
+  "episode14": {
+    "problems": {
+      "name": "problem_25622_25652",
+      "time": 0.166,
+      "routes": 143,
+      "junctions": 75
+    },
+    "vehicles": {
+      "total": 18,
+      "scheduled": 13,
+      "routed": 13,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25622_25652",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.834
+    }
+  },
+  "episode15": {
+    "problems": {
+      "name": "problem_25652_25682",
+      "time": 0.058,
+      "routes": 164,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 20,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_25652_25682",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode16": {
+    "problems": {
+      "name": "problem_25682_25712",
+      "time": 0.069,
+      "routes": 136,
+      "junctions": 73
+    },
+    "vehicles": {
+      "total": 19,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25682_25712",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.931
+    }
+  },
+  "episode17": {
+    "problems": {
+      "name": "problem_25712_25742",
+      "time": 0.055,
+      "routes": 130,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 19,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25712_25742",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode18": {
+    "problems": {
+      "name": "problem_25742_25772",
+      "time": 0.055,
+      "routes": 101,
+      "junctions": 63
+    },
+    "vehicles": {
+      "total": 13,
+      "scheduled": 11,
+      "routed": 11,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25742_25772",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode19": {
+    "problems": {
+      "name": "problem_25772_25802",
+      "time": 0.051,
+      "routes": 152,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_25772_25802",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode20": {
+    "problems": {
+      "name": "problem_25802_25832",
+      "time": 0.06,
+      "routes": 181,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_25802_25832",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.94
+    }
+  },
+  "episode21": {
+    "problems": {
+      "name": "problem_25832_25862",
+      "time": 0.193,
+      "routes": 138,
+      "junctions": 68
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_25832_25862",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.807
+    }
+  },
+  "episode22": {
+    "problems": {
+      "name": "problem_25862_25892",
+      "time": 0.053,
+      "routes": 176,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_25862_25892",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode23": {
+    "problems": {
+      "name": "problem_25892_25922",
+      "time": 0.11,
+      "routes": 171,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 2,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_25892_25922",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.89
+    }
+  },
+  "episode24": {
+    "problems": {
+      "name": "problem_25922_25952",
+      "time": 0.085,
+      "routes": 168,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25922_25952",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.915
+    }
+  },
+  "episode25": {
+    "problems": {
+      "name": "problem_25952_25982",
+      "time": 0.054,
+      "routes": 147,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 15,
+      "scheduled": 14,
+      "routed": 14,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25952_25982",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode26": {
+    "problems": {
+      "name": "problem_25982_26012",
+      "time": 0.061,
+      "routes": 132,
+      "junctions": 70
+    },
+    "vehicles": {
+      "total": 20,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_25982_26012",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.939
+    }
+  },
+  "episode27": {
+    "problems": {
+      "name": "problem_26012_26042",
+      "time": 0.066,
+      "routes": 179,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 20,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_26012_26042",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.934
+    }
+  },
+  "episode28": {
+    "problems": {
+      "name": "problem_26042_26072",
+      "time": 0.061,
+      "routes": 167,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26042_26072",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.939
+    }
+  },
+  "episode29": {
+    "problems": {
+      "name": "problem_26072_26102",
+      "time": 0.057,
+      "routes": 164,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26072_26102",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode30": {
+    "problems": {
+      "name": "problem_26102_26132",
+      "time": 0.237,
+      "routes": 181,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26102_26132",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.763
+    }
+  },
+  "episode31": {
+    "problems": {
+      "name": "problem_26132_26162",
+      "time": 0.106,
+      "routes": 159,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 20,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26132_26162",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.894
+    }
+  },
+  "episode32": {
+    "problems": {
+      "name": "problem_26162_26192",
+      "time": 0.058,
+      "routes": 160,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 18,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26162_26192",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode33": {
+    "problems": {
+      "name": "problem_26192_26222",
+      "time": 0.057,
+      "routes": 178,
+      "junctions": 84
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26192_26222",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode34": {
+    "problems": {
+      "name": "problem_26222_26252",
+      "time": 0.053,
+      "routes": 131,
+      "junctions": 74
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26222_26252",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode35": {
+    "problems": {
+      "name": "problem_26252_26282",
+      "time": 0.057,
+      "routes": 162,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_26252_26282",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode36": {
+    "problems": {
+      "name": "problem_26282_26312",
+      "time": 0.063,
+      "routes": 172,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_26282_26312",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.937
+    }
+  },
+  "episode37": {
+    "problems": {
+      "name": "problem_26312_26342",
+      "time": 0.058,
+      "routes": 163,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26312_26342",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode38": {
+    "problems": {
+      "name": "problem_26342_26372",
+      "time": 0.071,
+      "routes": 194,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26342_26372",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.929
+    }
+  },
+  "episode39": {
+    "problems": {
+      "name": "problem_26372_26402",
+      "time": 0.058,
+      "routes": 186,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26372_26402",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode40": {
+    "problems": {
+      "name": "problem_26402_26432",
+      "time": 0.26,
+      "routes": 147,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26402_26432",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.74
+    }
+  },
+  "episode41": {
+    "problems": {
+      "name": "problem_26432_26462",
+      "time": 0.058,
+      "routes": 185,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26432_26462",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode42": {
+    "problems": {
+      "name": "problem_26462_26492",
+      "time": 0.072,
+      "routes": 138,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 4
+    },
+    "results": {
+      "name": "result_26462_26492",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.928
+    }
+  },
+  "episode43": {
+    "problems": {
+      "name": "problem_26492_26522",
+      "time": 0.058,
+      "routes": 160,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26492_26522",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode44": {
+    "problems": {
+      "name": "problem_26522_26552",
+      "time": 0.086,
+      "routes": 114,
+      "junctions": 68
+    },
+    "vehicles": {
+      "total": 19,
+      "scheduled": 8,
+      "routed": 8,
+      "short_route": 2,
+      "invalid_route": 5
+    },
+    "results": {
+      "name": "result_26522_26552",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.914
+    }
+  },
+  "episode45": {
+    "problems": {
+      "name": "problem_26552_26582",
+      "time": 0.073,
+      "routes": 159,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_26552_26582",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.927
+    }
+  },
+  "episode46": {
+    "problems": {
+      "name": "problem_26582_26612",
+      "time": 0.061,
+      "routes": 139,
+      "junctions": 74
+    },
+    "vehicles": {
+      "total": 18,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26582_26612",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.939
+    }
+  },
+  "episode47": {
+    "problems": {
+      "name": "problem_26612_26642",
+      "time": 0.068,
+      "routes": 186,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26612_26642",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.932
+    }
+  },
+  "episode48": {
+    "problems": {
+      "name": "problem_26642_26672",
+      "time": 0.07,
+      "routes": 133,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 2,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_26642_26672",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.93
+    }
+  },
+  "episode49": {
+    "problems": {
+      "name": "problem_26672_26702",
+      "time": 0.058,
+      "routes": 168,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26672_26702",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode50": {
+    "problems": {
+      "name": "problem_26702_26732",
+      "time": 0.056,
+      "routes": 172,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_26702_26732",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.944
+    }
+  },
+  "episode51": {
+    "problems": {
+      "name": "problem_26732_26762",
+      "time": 0.056,
+      "routes": 164,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26732_26762",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.944
+    }
+  },
+  "episode52": {
+    "problems": {
+      "name": "problem_26762_26792",
+      "time": 0.087,
+      "routes": 150,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 2,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26762_26792",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.913
+    }
+  },
+  "episode53": {
+    "problems": {
+      "name": "problem_26792_26822",
+      "time": 0.306,
+      "routes": 166,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_26792_26822",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.694
+    }
+  },
+  "episode54": {
+    "problems": {
+      "name": "problem_26822_26852",
+      "time": 0.062,
+      "routes": 172,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 15,
+      "scheduled": 13,
+      "routed": 13,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26822_26852",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.938
+    }
+  },
+  "episode55": {
+    "problems": {
+      "name": "problem_26852_26882",
+      "time": 0.068,
+      "routes": 178,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26852_26882",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.932
+    }
+  },
+  "episode56": {
+    "problems": {
+      "name": "problem_26882_26912",
+      "time": 0.115,
+      "routes": 129,
+      "junctions": 69
+    },
+    "vehicles": {
+      "total": 17,
+      "scheduled": 13,
+      "routed": 13,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26882_26912",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.885
+    }
+  },
+  "episode57": {
+    "problems": {
+      "name": "problem_26912_26942",
+      "time": 0.078,
+      "routes": 178,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_26912_26942",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.922
+    }
+  },
+  "episode58": {
+    "problems": {
+      "name": "problem_26942_26972",
+      "time": 0.109,
+      "routes": 166,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_26942_26972",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.891
+    }
+  },
+  "episode59": {
+    "problems": {
+      "name": "problem_26972_27002",
+      "time": 0.126,
+      "routes": 175,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 1,
+      "invalid_route": 5
+    },
+    "results": {
+      "name": "result_26972_27002",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.874
+    }
+  },
+  "episode60": {
+    "problems": {
+      "name": "problem_27002_27032",
+      "time": 0.076,
+      "routes": 153,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_27002_27032",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.924
+    }
+  },
+  "episode61": {
+    "problems": {
+      "name": "problem_27032_27062",
+      "time": 0.119,
+      "routes": 154,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 18,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27032_27062",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.881
+    }
+  },
+  "episode62": {
+    "problems": {
+      "name": "problem_27062_27092",
+      "time": 0.054,
+      "routes": 180,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_27062_27092",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode63": {
+    "problems": {
+      "name": "problem_27092_27122",
+      "time": 0.062,
+      "routes": 166,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_27092_27122",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.938
+    }
+  },
+  "episode64": {
+    "problems": {
+      "name": "problem_27122_27152",
+      "time": 0.058,
+      "routes": 160,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 19,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27122_27152",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode65": {
+    "problems": {
+      "name": "problem_27152_27182",
+      "time": 0.063,
+      "routes": 121,
+      "junctions": 73
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27152_27182",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.937
+    }
+  },
+  "episode66": {
+    "problems": {
+      "name": "problem_27182_27212",
+      "time": 0.079,
+      "routes": 186,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_27182_27212",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.921
+    }
+  },
+  "episode67": {
+    "problems": {
+      "name": "problem_27212_27242",
+      "time": 0.144,
+      "routes": 181,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27212_27242",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.856
+    }
+  },
+  "episode68": {
+    "problems": {
+      "name": "problem_27242_27272",
+      "time": 0.347,
+      "routes": 176,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 11,
+      "routed": 11,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_27242_27272",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.653
+    }
+  },
+  "episode69": {
+    "problems": {
+      "name": "problem_27272_27302",
+      "time": 0.071,
+      "routes": 161,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27272_27302",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.929
+    }
+  },
+  "episode70": {
+    "problems": {
+      "name": "problem_27302_27332",
+      "time": 0.061,
+      "routes": 197,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27302_27332",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.939
+    }
+  },
+  "episode71": {
+    "problems": {
+      "name": "problem_27332_27362",
+      "time": 0.08,
+      "routes": 150,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_27332_27362",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.92
+    }
+  },
+  "episode72": {
+    "problems": {
+      "name": "problem_27362_27392",
+      "time": 0.082,
+      "routes": 178,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27362_27392",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.918
+    }
+  },
+  "episode73": {
+    "problems": {
+      "name": "problem_27392_27422",
+      "time": 0.078,
+      "routes": 179,
+      "junctions": 84
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_27392_27422",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.922
+    }
+  },
+  "episode74": {
+    "problems": {
+      "name": "problem_27422_27452",
+      "time": 0.049,
+      "routes": 104,
+      "junctions": 69
+    },
+    "vehicles": {
+      "total": 19,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_27422_27452",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.951
+    }
+  },
+  "episode75": {
+    "problems": {
+      "name": "problem_27452_27482",
+      "time": 0.05,
+      "routes": 158,
+      "junctions": 73
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 2,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_27452_27482",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.95
+    }
+  },
+  "episode76": {
+    "problems": {
+      "name": "problem_27482_27512",
+      "time": 0.053,
+      "routes": 191,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_27482_27512",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode77": {
+    "problems": {
+      "name": "problem_27512_27542",
+      "time": 0.053,
+      "routes": 158,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27512_27542",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode78": {
+    "problems": {
+      "name": "problem_27542_27572",
+      "time": 0.052,
+      "routes": 137,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27542_27572",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode79": {
+    "problems": {
+      "name": "problem_27572_27602",
+      "time": 0.061,
+      "routes": 180,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27572_27602",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.939
+    }
+  },
+  "episode80": {
+    "problems": {
+      "name": "problem_27602_27632",
+      "time": 0.051,
+      "routes": 138,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27602_27632",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode81": {
+    "problems": {
+      "name": "problem_27632_27662",
+      "time": 0.053,
+      "routes": 158,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27632_27662",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode82": {
+    "problems": {
+      "name": "problem_27662_27692",
+      "time": 0.052,
+      "routes": 184,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_27662_27692",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode83": {
+    "problems": {
+      "name": "problem_27692_27722",
+      "time": 0.052,
+      "routes": 192,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_27692_27722",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode84": {
+    "problems": {
+      "name": "problem_27722_27752",
+      "time": 0.052,
+      "routes": 177,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_27722_27752",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode85": {
+    "problems": {
+      "name": "problem_27752_27782",
+      "time": 0.361,
+      "routes": 172,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_27752_27782",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.639
+    }
+  },
+  "episode86": {
+    "problems": {
+      "name": "problem_27782_27812",
+      "time": 0.052,
+      "routes": 178,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27782_27812",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode87": {
+    "problems": {
+      "name": "problem_27812_27842",
+      "time": 0.053,
+      "routes": 156,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27812_27842",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode88": {
+    "problems": {
+      "name": "problem_27842_27872",
+      "time": 0.1,
+      "routes": 201,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_27842_27872",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.9
+    }
+  },
+  "episode89": {
+    "problems": {
+      "name": "problem_27872_27902",
+      "time": 0.055,
+      "routes": 173,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 3,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_27872_27902",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode90": {
+    "problems": {
+      "name": "problem_27902_27932",
+      "time": 0.055,
+      "routes": 178,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_27902_27932",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode91": {
+    "problems": {
+      "name": "problem_27932_27962",
+      "time": 0.052,
+      "routes": 177,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 33,
+      "scheduled": 28,
+      "routed": 28,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27932_27962",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode92": {
+    "problems": {
+      "name": "problem_27962_27992",
+      "time": 0.059,
+      "routes": 159,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_27962_27992",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.941
+    }
+  },
+  "episode93": {
+    "problems": {
+      "name": "problem_27992_28022",
+      "time": 0.052,
+      "routes": 168,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 2,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_27992_28022",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode94": {
+    "problems": {
+      "name": "problem_28022_28052",
+      "time": 0.054,
+      "routes": 152,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_28022_28052",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode95": {
+    "problems": {
+      "name": "problem_28052_28082",
+      "time": 0.058,
+      "routes": 182,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 43,
+      "scheduled": 33,
+      "routed": 33,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_28052_28082",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode96": {
+    "problems": {
+      "name": "problem_28082_28112",
+      "time": 0.052,
+      "routes": 156,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_28082_28112",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode97": {
+    "problems": {
+      "name": "problem_28112_28142",
+      "time": 0.052,
+      "routes": 183,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28112_28142",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode98": {
+    "problems": {
+      "name": "problem_28142_28172",
+      "time": 0.053,
+      "routes": 154,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28142_28172",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode99": {
+    "problems": {
+      "name": "problem_28172_28202",
+      "time": 0.075,
+      "routes": 184,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 27,
+      "routed": 27,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28172_28202",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.925
+    }
+  },
+  "episode100": {
+    "problems": {
+      "name": "problem_28202_28232",
+      "time": 0.055,
+      "routes": 176,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 38,
+      "scheduled": 33,
+      "routed": 33,
+      "short_route": 3,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28202_28232",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode101": {
+    "problems": {
+      "name": "problem_28232_28262",
+      "time": 0.055,
+      "routes": 143,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28232_28262",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode102": {
+    "problems": {
+      "name": "problem_28262_28292",
+      "time": 0.052,
+      "routes": 166,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28262_28292",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode103": {
+    "problems": {
+      "name": "problem_28292_28322",
+      "time": 0.052,
+      "routes": 175,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 37,
+      "scheduled": 28,
+      "routed": 28,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28292_28322",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode104": {
+    "problems": {
+      "name": "problem_28322_28352",
+      "time": 0.051,
+      "routes": 104,
+      "junctions": 71
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28322_28352",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode105": {
+    "problems": {
+      "name": "problem_28352_28382",
+      "time": 0.404,
+      "routes": 141,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_28352_28382",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.596
+    }
+  },
+  "episode106": {
+    "problems": {
+      "name": "problem_28382_28412",
+      "time": 0.063,
+      "routes": 178,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 38,
+      "scheduled": 29,
+      "routed": 29,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_28382_28412",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.937
+    }
+  },
+  "episode107": {
+    "problems": {
+      "name": "problem_28412_28442",
+      "time": 0.06,
+      "routes": 175,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 39,
+      "scheduled": 30,
+      "routed": 30,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28412_28442",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.94
+    }
+  },
+  "episode108": {
+    "problems": {
+      "name": "problem_28442_28472",
+      "time": 0.05,
+      "routes": 183,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_28442_28472",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.95
+    }
+  },
+  "episode109": {
+    "problems": {
+      "name": "problem_28472_28502",
+      "time": 0.052,
+      "routes": 160,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 32,
+      "scheduled": 27,
+      "routed": 27,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_28472_28502",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode110": {
+    "problems": {
+      "name": "problem_28502_28532",
+      "time": 0.06,
+      "routes": 193,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 42,
+      "scheduled": 28,
+      "routed": 28,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28502_28532",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.94
+    }
+  },
+  "episode111": {
+    "problems": {
+      "name": "problem_28532_28562",
+      "time": 0.057,
+      "routes": 126,
+      "junctions": 68
+    },
+    "vehicles": {
+      "total": 32,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28532_28562",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode112": {
+    "problems": {
+      "name": "problem_28562_28592",
+      "time": 0.052,
+      "routes": 160,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 30,
+      "routed": 30,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28562_28592",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode113": {
+    "problems": {
+      "name": "problem_28592_28622",
+      "time": 0.054,
+      "routes": 163,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 4
+    },
+    "results": {
+      "name": "result_28592_28622",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode114": {
+    "problems": {
+      "name": "problem_28622_28652",
+      "time": 0.05,
+      "routes": 142,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 3,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28622_28652",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.95
+    }
+  },
+  "episode115": {
+    "problems": {
+      "name": "problem_28652_28682",
+      "time": 0.077,
+      "routes": 191,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28652_28682",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.923
+    }
+  },
+  "episode116": {
+    "problems": {
+      "name": "problem_28682_28712",
+      "time": 0.05,
+      "routes": 168,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28682_28712",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.95
+    }
+  },
+  "episode117": {
+    "problems": {
+      "name": "problem_28712_28742",
+      "time": 0.093,
+      "routes": 152,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28712_28742",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.907
+    }
+  },
+  "episode118": {
+    "problems": {
+      "name": "problem_28742_28772",
+      "time": 0.051,
+      "routes": 167,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28742_28772",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode119": {
+    "problems": {
+      "name": "problem_28772_28802",
+      "time": 0.054,
+      "routes": 185,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28772_28802",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode120": {
+    "problems": {
+      "name": "problem_28802_28832",
+      "time": 0.051,
+      "routes": 159,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28802_28832",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode121": {
+    "problems": {
+      "name": "problem_28832_28862",
+      "time": 0.053,
+      "routes": 158,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28832_28862",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode122": {
+    "problems": {
+      "name": "problem_28862_28892",
+      "time": 0.066,
+      "routes": 147,
+      "junctions": 70
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_28862_28892",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.934
+    }
+  },
+  "episode123": {
+    "problems": {
+      "name": "problem_28892_28922",
+      "time": 0.055,
+      "routes": 186,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28892_28922",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode124": {
+    "problems": {
+      "name": "problem_28922_28952",
+      "time": 0.052,
+      "routes": 172,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28922_28952",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode125": {
+    "problems": {
+      "name": "problem_28952_28982",
+      "time": 0.051,
+      "routes": 135,
+      "junctions": 74
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_28952_28982",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode126": {
+    "problems": {
+      "name": "problem_28982_29012",
+      "time": 0.066,
+      "routes": 175,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_28982_29012",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.934
+    }
+  },
+  "episode127": {
+    "problems": {
+      "name": "problem_29012_29042",
+      "time": 0.058,
+      "routes": 159,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 32,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_29012_29042",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode128": {
+    "problems": {
+      "name": "problem_29042_29072",
+      "time": 0.051,
+      "routes": 124,
+      "junctions": 74
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29042_29072",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode129": {
+    "problems": {
+      "name": "problem_29072_29102",
+      "time": 0.051,
+      "routes": 156,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 14,
+      "routed": 14,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_29072_29102",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode130": {
+    "problems": {
+      "name": "problem_29102_29132",
+      "time": 0.512,
+      "routes": 177,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 32,
+      "scheduled": 26,
+      "routed": 26,
+      "short_route": 0,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_29102_29132",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.488
+    }
+  },
+  "episode131": {
+    "problems": {
+      "name": "problem_29132_29162",
+      "time": 0.052,
+      "routes": 122,
+      "junctions": 74
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29132_29162",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode132": {
+    "problems": {
+      "name": "problem_29162_29192",
+      "time": 0.083,
+      "routes": 146,
+      "junctions": 69
+    },
+    "vehicles": {
+      "total": 16,
+      "scheduled": 12,
+      "routed": 12,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29162_29192",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.917
+    }
+  },
+  "episode133": {
+    "problems": {
+      "name": "problem_29192_29222",
+      "time": 0.06,
+      "routes": 179,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 32,
+      "scheduled": 28,
+      "routed": 28,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29192_29222",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.94
+    }
+  },
+  "episode134": {
+    "problems": {
+      "name": "problem_29222_29252",
+      "time": 0.052,
+      "routes": 185,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29222_29252",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode135": {
+    "problems": {
+      "name": "problem_29252_29282",
+      "time": 0.05,
+      "routes": 198,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 36,
+      "scheduled": 29,
+      "routed": 29,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29252_29282",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.95
+    }
+  },
+  "episode136": {
+    "problems": {
+      "name": "problem_29282_29312",
+      "time": 0.057,
+      "routes": 195,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 46,
+      "scheduled": 40,
+      "routed": 40,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29282_29312",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode137": {
+    "problems": {
+      "name": "problem_29312_29342",
+      "time": 0.06,
+      "routes": 203,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29312_29342",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.94
+    }
+  },
+  "episode138": {
+    "problems": {
+      "name": "problem_29342_29372",
+      "time": 0.054,
+      "routes": 149,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29342_29372",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode139": {
+    "problems": {
+      "name": "problem_29372_29402",
+      "time": 0.058,
+      "routes": 188,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 1,
+      "invalid_route": 4
+    },
+    "results": {
+      "name": "result_29372_29402",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode140": {
+    "problems": {
+      "name": "problem_29402_29432",
+      "time": 0.059,
+      "routes": 160,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29402_29432",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.941
+    }
+  },
+  "episode141": {
+    "problems": {
+      "name": "problem_29432_29462",
+      "time": 0.072,
+      "routes": 182,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 33,
+      "scheduled": 26,
+      "routed": 26,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29432_29462",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.928
+    }
+  },
+  "episode142": {
+    "problems": {
+      "name": "problem_29462_29492",
+      "time": 0.064,
+      "routes": 188,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 29,
+      "routed": 29,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29462_29492",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.936
+    }
+  },
+  "episode143": {
+    "problems": {
+      "name": "problem_29492_29522",
+      "time": 0.077,
+      "routes": 175,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 33,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 4
+    },
+    "results": {
+      "name": "result_29492_29522",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.923
+    }
+  },
+  "episode144": {
+    "problems": {
+      "name": "problem_29522_29552",
+      "time": 0.057,
+      "routes": 168,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 33,
+      "scheduled": 26,
+      "routed": 26,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29522_29552",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode145": {
+    "problems": {
+      "name": "problem_29552_29582",
+      "time": 0.057,
+      "routes": 194,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29552_29582",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode146": {
+    "problems": {
+      "name": "problem_29582_29612",
+      "time": 0.059,
+      "routes": 137,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 1,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_29582_29612",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.941
+    }
+  },
+  "episode147": {
+    "problems": {
+      "name": "problem_29612_29642",
+      "time": 0.085,
+      "routes": 179,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29612_29642",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.915
+    }
+  },
+  "episode148": {
+    "problems": {
+      "name": "problem_29642_29672",
+      "time": 0.062,
+      "routes": 157,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_29642_29672",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.938
+    }
+  },
+  "episode149": {
+    "problems": {
+      "name": "problem_29672_29702",
+      "time": 0.054,
+      "routes": 187,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29672_29702",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode150": {
+    "problems": {
+      "name": "problem_29702_29732",
+      "time": 0.054,
+      "routes": 154,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 0,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_29702_29732",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode151": {
+    "problems": {
+      "name": "problem_29732_29762",
+      "time": 0.107,
+      "routes": 132,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 36,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 2,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29732_29762",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.893
+    }
+  },
+  "episode152": {
+    "problems": {
+      "name": "problem_29762_29792",
+      "time": 0.062,
+      "routes": 158,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 0,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_29762_29792",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.938
+    }
+  },
+  "episode153": {
+    "problems": {
+      "name": "problem_29792_29822",
+      "time": 0.059,
+      "routes": 148,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 26,
+      "routed": 26,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29792_29822",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.941
+    }
+  },
+  "episode154": {
+    "problems": {
+      "name": "problem_29822_29852",
+      "time": 0.051,
+      "routes": 178,
+      "junctions": 84
+    },
+    "vehicles": {
+      "total": 33,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29822_29852",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode155": {
+    "problems": {
+      "name": "problem_29852_29882",
+      "time": 0.064,
+      "routes": 155,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29852_29882",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.936
+    }
+  },
+  "episode156": {
+    "problems": {
+      "name": "problem_29882_29912",
+      "time": 0.051,
+      "routes": 139,
+      "junctions": 75
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_29882_29912",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode157": {
+    "problems": {
+      "name": "problem_29912_29942",
+      "time": 0.05,
+      "routes": 121,
+      "junctions": 72
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_29912_29942",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.95
+    }
+  },
+  "episode158": {
+    "problems": {
+      "name": "problem_29942_29972",
+      "time": 0.051,
+      "routes": 147,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29942_29972",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode159": {
+    "problems": {
+      "name": "problem_29972_30002",
+      "time": 0.574,
+      "routes": 169,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_29972_30002",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.426
+    }
+  },
+  "episode160": {
+    "problems": {
+      "name": "problem_30002_30032",
+      "time": 0.069,
+      "routes": 189,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 43,
+      "scheduled": 36,
+      "routed": 36,
+      "short_route": 2,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30002_30032",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.931
+    }
+  },
+  "episode161": {
+    "problems": {
+      "name": "problem_30032_30062",
+      "time": 0.056,
+      "routes": 138,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30032_30062",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.944
+    }
+  },
+  "episode162": {
+    "problems": {
+      "name": "problem_30062_30092",
+      "time": 0.052,
+      "routes": 179,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30062_30092",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode163": {
+    "problems": {
+      "name": "problem_30092_30122",
+      "time": 0.058,
+      "routes": 191,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 39,
+      "scheduled": 30,
+      "routed": 30,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30092_30122",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode164": {
+    "problems": {
+      "name": "problem_30122_30152",
+      "time": 0.056,
+      "routes": 142,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 41,
+      "scheduled": 27,
+      "routed": 27,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30122_30152",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.944
+    }
+  },
+  "episode165": {
+    "problems": {
+      "name": "problem_30152_30182",
+      "time": 0.054,
+      "routes": 178,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 4
+    },
+    "results": {
+      "name": "result_30152_30182",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode166": {
+    "problems": {
+      "name": "problem_30182_30212",
+      "time": 0.058,
+      "routes": 194,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 39,
+      "scheduled": 33,
+      "routed": 33,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30182_30212",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode167": {
+    "problems": {
+      "name": "problem_30212_30242",
+      "time": 0.062,
+      "routes": 177,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30212_30242",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.938
+    }
+  },
+  "episode168": {
+    "problems": {
+      "name": "problem_30242_30272",
+      "time": 0.055,
+      "routes": 186,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 33,
+      "scheduled": 27,
+      "routed": 27,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30242_30272",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode169": {
+    "problems": {
+      "name": "problem_30272_30302",
+      "time": 0.051,
+      "routes": 183,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30272_30302",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode170": {
+    "problems": {
+      "name": "problem_30302_30332",
+      "time": 0.054,
+      "routes": 168,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30302_30332",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode171": {
+    "problems": {
+      "name": "problem_30332_30362",
+      "time": 0.054,
+      "routes": 156,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 2,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_30332_30362",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode172": {
+    "problems": {
+      "name": "problem_30362_30392",
+      "time": 0.091,
+      "routes": 191,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 26,
+      "routed": 26,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30362_30392",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.909
+    }
+  },
+  "episode173": {
+    "problems": {
+      "name": "problem_30392_30422",
+      "time": 0.06,
+      "routes": 178,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 32,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_30392_30422",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.94
+    }
+  },
+  "episode174": {
+    "problems": {
+      "name": "problem_30422_30452",
+      "time": 0.052,
+      "routes": 161,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_30422_30452",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode175": {
+    "problems": {
+      "name": "problem_30452_30482",
+      "time": 0.054,
+      "routes": 202,
+      "junctions": 84
+    },
+    "vehicles": {
+      "total": 42,
+      "scheduled": 30,
+      "routed": 30,
+      "short_route": 2,
+      "invalid_route": 3
+    },
+    "results": {
+      "name": "result_30452_30482",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode176": {
+    "problems": {
+      "name": "problem_30482_30512",
+      "time": 0.109,
+      "routes": 180,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 28,
+      "routed": 28,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_30482_30512",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.891
+    }
+  },
+  "episode177": {
+    "problems": {
+      "name": "problem_30512_30542",
+      "time": 0.051,
+      "routes": 149,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30512_30542",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode178": {
+    "problems": {
+      "name": "problem_30542_30572",
+      "time": 0.075,
+      "routes": 163,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_30542_30572",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.925
+    }
+  },
+  "episode179": {
+    "problems": {
+      "name": "problem_30572_30602",
+      "time": 0.081,
+      "routes": 200,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 26,
+      "routed": 26,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30572_30602",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.919
+    }
+  },
+  "episode180": {
+    "problems": {
+      "name": "problem_30602_30632",
+      "time": 0.052,
+      "routes": 181,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 41,
+      "scheduled": 35,
+      "routed": 35,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30602_30632",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode181": {
+    "problems": {
+      "name": "problem_30632_30662",
+      "time": 0.057,
+      "routes": 174,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 26,
+      "routed": 26,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30632_30662",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode182": {
+    "problems": {
+      "name": "problem_30662_30692",
+      "time": 0.063,
+      "routes": 191,
+      "junctions": 84
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30662_30692",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.937
+    }
+  },
+  "episode183": {
+    "problems": {
+      "name": "problem_30692_30722",
+      "time": 0.053,
+      "routes": 191,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30692_30722",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode184": {
+    "problems": {
+      "name": "problem_30722_30752",
+      "time": 0.052,
+      "routes": 192,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 27,
+      "routed": 27,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_30722_30752",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode185": {
+    "problems": {
+      "name": "problem_30752_30782",
+      "time": 0.052,
+      "routes": 183,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30752_30782",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode186": {
+    "problems": {
+      "name": "problem_30782_30812",
+      "time": 0.078,
+      "routes": 190,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30782_30812",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.922
+    }
+  },
+  "episode187": {
+    "problems": {
+      "name": "problem_30812_30842",
+      "time": 0.055,
+      "routes": 197,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30812_30842",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode188": {
+    "problems": {
+      "name": "problem_30842_30872",
+      "time": 0.052,
+      "routes": 171,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 33,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30842_30872",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode189": {
+    "problems": {
+      "name": "problem_30872_30902",
+      "time": 0.053,
+      "routes": 138,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30872_30902",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode190": {
+    "problems": {
+      "name": "problem_30902_30932",
+      "time": 0.051,
+      "routes": 186,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 27,
+      "routed": 27,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30902_30932",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode191": {
+    "problems": {
+      "name": "problem_30932_30962",
+      "time": 0.057,
+      "routes": 193,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 28,
+      "routed": 28,
+      "short_route": 2,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30932_30962",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode192": {
+    "problems": {
+      "name": "problem_30962_30992",
+      "time": 0.071,
+      "routes": 190,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_30962_30992",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.929
+    }
+  },
+  "episode193": {
+    "problems": {
+      "name": "problem_30992_31022",
+      "time": 0.696,
+      "routes": 132,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 17,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_30992_31022",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.304
+    }
+  },
+  "episode194": {
+    "problems": {
+      "name": "problem_31022_31052",
+      "time": 0.054,
+      "routes": 177,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 30,
+      "routed": 30,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31022_31052",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode195": {
+    "problems": {
+      "name": "problem_31052_31082",
+      "time": 0.051,
+      "routes": 142,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31052_31082",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode196": {
+    "problems": {
+      "name": "problem_31082_31112",
+      "time": 0.075,
+      "routes": 201,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 37,
+      "scheduled": 30,
+      "routed": 30,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31082_31112",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.925
+    }
+  },
+  "episode197": {
+    "problems": {
+      "name": "problem_31112_31142",
+      "time": 0.076,
+      "routes": 197,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 36,
+      "scheduled": 27,
+      "routed": 27,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31112_31142",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.924
+    }
+  },
+  "episode198": {
+    "problems": {
+      "name": "problem_31142_31172",
+      "time": 0.055,
+      "routes": 168,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31142_31172",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode199": {
+    "problems": {
+      "name": "problem_31172_31202",
+      "time": 0.052,
+      "routes": 202,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31172_31202",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode200": {
+    "problems": {
+      "name": "problem_31202_31232",
+      "time": 0.052,
+      "routes": 172,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31202_31232",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode201": {
+    "problems": {
+      "name": "problem_31232_31262",
+      "time": 0.064,
+      "routes": 178,
+      "junctions": 84
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31232_31262",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.936
+    }
+  },
+  "episode202": {
+    "problems": {
+      "name": "problem_31262_31292",
+      "time": 0.054,
+      "routes": 204,
+      "junctions": 84
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31262_31292",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode203": {
+    "problems": {
+      "name": "problem_31292_31322",
+      "time": 0.052,
+      "routes": 183,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 40,
+      "scheduled": 31,
+      "routed": 31,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31292_31322",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode204": {
+    "problems": {
+      "name": "problem_31322_31352",
+      "time": 0.051,
+      "routes": 165,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31322_31352",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode205": {
+    "problems": {
+      "name": "problem_31352_31382",
+      "time": 0.053,
+      "routes": 127,
+      "junctions": 75
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31352_31382",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode206": {
+    "problems": {
+      "name": "problem_31382_31412",
+      "time": 0.051,
+      "routes": 178,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31382_31412",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode207": {
+    "problems": {
+      "name": "problem_31412_31442",
+      "time": 0.052,
+      "routes": 178,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_31412_31442",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode208": {
+    "problems": {
+      "name": "problem_31442_31472",
+      "time": 0.057,
+      "routes": 177,
+      "junctions": 82
+    },
+    "vehicles": {
+      "total": 31,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 0,
+      "invalid_route": 4
+    },
+    "results": {
+      "name": "result_31442_31472",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode209": {
+    "problems": {
+      "name": "problem_31472_31502",
+      "time": 0.055,
+      "routes": 177,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31472_31502",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode210": {
+    "problems": {
+      "name": "problem_31502_31532",
+      "time": 0.055,
+      "routes": 173,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31502_31532",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode211": {
+    "problems": {
+      "name": "problem_31532_31562",
+      "time": 0.054,
+      "routes": 179,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 23,
+      "scheduled": 20,
+      "routed": 20,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31532_31562",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode212": {
+    "problems": {
+      "name": "problem_31562_31592",
+      "time": 0.062,
+      "routes": 175,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 2,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31562_31592",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.938
+    }
+  },
+  "episode213": {
+    "problems": {
+      "name": "problem_31592_31622",
+      "time": 0.051,
+      "routes": 171,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31592_31622",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode214": {
+    "problems": {
+      "name": "problem_31622_31652",
+      "time": 0.052,
+      "routes": 176,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 25,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31622_31652",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode215": {
+    "problems": {
+      "name": "problem_31652_31682",
+      "time": 0.054,
+      "routes": 130,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31652_31682",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.946
+    }
+  },
+  "episode216": {
+    "problems": {
+      "name": "problem_31682_31712",
+      "time": 0.068,
+      "routes": 157,
+      "junctions": 77
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 19,
+      "routed": 19,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31682_31712",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.932
+    }
+  },
+  "episode217": {
+    "problems": {
+      "name": "problem_31712_31742",
+      "time": 0.059,
+      "routes": 183,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31712_31742",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.941
+    }
+  },
+  "episode218": {
+    "problems": {
+      "name": "problem_31742_31772",
+      "time": 0.062,
+      "routes": 190,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 28,
+      "routed": 28,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_31742_31772",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.938
+    }
+  },
+  "episode219": {
+    "problems": {
+      "name": "problem_31772_31802",
+      "time": 0.055,
+      "routes": 185,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 30,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31772_31802",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode220": {
+    "problems": {
+      "name": "problem_31802_31832",
+      "time": 0.057,
+      "routes": 175,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31802_31832",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.943
+    }
+  },
+  "episode221": {
+    "problems": {
+      "name": "problem_31832_31862",
+      "time": 0.052,
+      "routes": 181,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 15,
+      "routed": 15,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31832_31862",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode222": {
+    "problems": {
+      "name": "problem_31862_31892",
+      "time": 0.066,
+      "routes": 188,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 29,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31862_31892",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.934
+    }
+  },
+  "episode223": {
+    "problems": {
+      "name": "problem_31892_31922",
+      "time": 0.053,
+      "routes": 147,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 23,
+      "routed": 23,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31892_31922",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode224": {
+    "problems": {
+      "name": "problem_31922_31952",
+      "time": 0.052,
+      "routes": 177,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 3,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31922_31952",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode225": {
+    "problems": {
+      "name": "problem_31952_31982",
+      "time": 0.052,
+      "routes": 189,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 32,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 1,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_31952_31982",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.948
+    }
+  },
+  "episode226": {
+    "problems": {
+      "name": "problem_31982_32012",
+      "time": 0.053,
+      "routes": 189,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 37,
+      "scheduled": 28,
+      "routed": 28,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_31982_32012",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode227": {
+    "problems": {
+      "name": "problem_32012_32042",
+      "time": 0.053,
+      "routes": 158,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_32012_32042",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.947
+    }
+  },
+  "episode228": {
+    "problems": {
+      "name": "problem_32042_32072",
+      "time": 0.058,
+      "routes": 189,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 36,
+      "scheduled": 27,
+      "routed": 27,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_32042_32072",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode229": {
+    "problems": {
+      "name": "problem_32072_32102",
+      "time": 0.058,
+      "routes": 181,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 28,
+      "scheduled": 24,
+      "routed": 24,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_32072_32102",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.942
+    }
+  },
+  "episode230": {
+    "problems": {
+      "name": "problem_32102_32132",
+      "time": 0.065,
+      "routes": 141,
+      "junctions": 80
+    },
+    "vehicles": {
+      "total": 22,
+      "scheduled": 18,
+      "routed": 18,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_32102_32132",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.935
+    }
+  },
+  "episode231": {
+    "problems": {
+      "name": "problem_32132_32162",
+      "time": 0.093,
+      "routes": 203,
+      "junctions": 83
+    },
+    "vehicles": {
+      "total": 35,
+      "scheduled": 32,
+      "routed": 32,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_32132_32162",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.907
+    }
+  },
+  "episode232": {
+    "problems": {
+      "name": "problem_32162_32192",
+      "time": 0.051,
+      "routes": 108,
+      "junctions": 68
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 13,
+      "routed": 13,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_32162_32192",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode233": {
+    "problems": {
+      "name": "problem_32192_32222",
+      "time": 0.072,
+      "routes": 190,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 34,
+      "scheduled": 25,
+      "routed": 25,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_32192_32222",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.928
+    }
+  },
+  "episode234": {
+    "problems": {
+      "name": "problem_32222_32252",
+      "time": 0.055,
+      "routes": 162,
+      "junctions": 78
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 21,
+      "routed": 21,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_32222_32252",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode235": {
+    "problems": {
+      "name": "problem_32252_32282",
+      "time": 0.872,
+      "routes": 173,
+      "junctions": 79
+    },
+    "vehicles": {
+      "total": 26,
+      "scheduled": 16,
+      "routed": 16,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_32252_32282",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.128
+    }
+  },
+  "episode236": {
+    "problems": {
+      "name": "problem_32282_32312",
+      "time": 0.055,
+      "routes": 124,
+      "junctions": 76
+    },
+    "vehicles": {
+      "total": 21,
+      "scheduled": 14,
+      "routed": 14,
+      "short_route": 0,
+      "invalid_route": 2
+    },
+    "results": {
+      "name": "result_32282_32312",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.945
+    }
+  },
+  "episode237": {
+    "problems": {
+      "name": "problem_32312_32342",
+      "time": 0.05,
+      "routes": 155,
+      "junctions": 75
+    },
+    "vehicles": {
+      "total": 24,
+      "scheduled": 17,
+      "routed": 17,
+      "short_route": 0,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_32312_32342",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.95
+    }
+  },
+  "episode238": {
+    "problems": {
+      "name": "problem_32342_32372",
+      "time": 0.051,
+      "routes": 187,
+      "junctions": 81
+    },
+    "vehicles": {
+      "total": 27,
+      "scheduled": 22,
+      "routed": 22,
+      "short_route": 1,
+      "invalid_route": 1
+    },
+    "results": {
+      "name": "result_32342_32372",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.949
+    }
+  },
+  "episode239": {
+    "problems": {
+      "name": "problem_32372_32402",
+      "time": 0.049,
+      "routes": 118,
+      "junctions": 75
+    },
+    "vehicles": {
+      "total": 19,
+      "scheduled": 11,
+      "routed": 11,
+      "short_route": 0,
+      "invalid_route": 0
+    },
+    "results": {
+      "name": "result_32372_32402",
+      "cost": 0,
+      "plans": 1,
+      "timeout": 24.951
+    }
+  }
+}
